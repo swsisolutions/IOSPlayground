@@ -45,6 +45,11 @@
 			path = IosPlaygroundUITests;
 			sourceTree = "<group>";
 		};
+		B113E9392E773183000FABB2 /* reademe */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = reademe;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		B111816E2E772B2500D3FC05 = {
 			isa = PBXGroup;
 			children = (
+				B113E9392E773183000FABB2 /* reademe */,
 				B11181792E772B2500D3FC05 /* IosPlayground */,
 				B111818A2E772B2600D3FC05 /* IosPlaygroundTests */,
 				B11181942E772B2600D3FC05 /* IosPlaygroundUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				B11181792E772B2500D3FC05 /* IosPlayground */,
+				B113E9392E773183000FABB2 /* reademe */,
 			);
 			name = IosPlayground;
 			packageProductDependencies = (
